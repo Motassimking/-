@@ -1,6 +1,0 @@
-{
-  "name": "دارك",
-  "description": "تطبيق عقارات فاخر ومتخصص في بيع وشراء وتأجير العقارات",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
